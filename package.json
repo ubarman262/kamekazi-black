@@ -3,7 +3,7 @@
   "displayName": "Kamekazi Dark",
   "description": "A Visual Studio Code theme for those of us who like to code late into the night",
   "version": "1.1.1",
-  "publisher": "ujjwalbarman",
+  "publisher": "UjjwalBarman",
   "author": {
     "name": "UJJWAL BARMAN",
     "email": "Ujjwalbarman3624@outlook.com"
@@ -20,6 +20,7 @@
     "build": "ts-node src/index.ts",
     "prepackage": "if not exist build mkdir build",
     "package": "vsce package --out build/",
+    "publish": "vsce publish",
     "start": "nodemon",
     "lint": "eslint src --ext ts"
   },
