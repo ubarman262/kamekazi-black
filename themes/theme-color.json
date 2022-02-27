@@ -74,7 +74,8 @@
         "sideBar.border": "#000",
         "editorGroup.border": "#000",
         "editorIndentGuide.background": "#000",
-        "editorIndentGuide.activeBackground": "#000"
+        "editorIndentGuide.activeBackground": "#000",
+        "contrastActiveBorder": "#00000062"
     },
     "tokenColors": [
         {
