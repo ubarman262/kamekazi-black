@@ -69,16 +69,16 @@
         "editorGroupHeader.tabsBackground": "#000",
         "activityBarBadge.background": "#000",
         "activityBar.background": "#000000d0",
-        "editorWhitespace.foreground": "#000",
+        "editorWhitespace.foreground": "#000", 
         "sideBar.background": "#000",
-        "editorRuler.foreground": "#222",
-        "sideBar.border": "#18171783",
+        "editorRuler.foreground": "#222", 
+        "sideBar.border": "#2f2e2e",
         "editorGroup.border": "#2e2c2cd2",
-        "editorIndentGuide.background": "#000",
+        "editorIndentGuide.background": "#000", 
         "editorIndentGuide.activeBackground": "#000",
-        "focusBorder": "#18171783",
+        "focusBorder": "#2f2e2e00",
         "sideBarSectionHeader.background": "#000",
-        "sideBarSectionHeader.border": "#18171783"
+        "sideBarSectionHeader.border": "#2f2e2e"
     },
     "tokenColors": [
         {
